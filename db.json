@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "nama": "Alfina Balqis N",
+          "nis": 3103118011,
+          "gender": "Perempuan",
+          "jurusan": "RPL",
+          "foto": ""
+        },
+        {
+          "id": 2,
+          "nama": "Alfiessa Widya",
+          "nis": 3103118012,
+          "gender": "Laki-laki",
+          "jurusan": "RPL",
+          "foto": ""
+        },
+        {
+          "id": 3,
+          "nama": "Almas Faiq",
+          "nis": 3103118013,
+          "gender": "Laki-laki",
+          "jurusan": "RPL",
+          "foto": ""
+        }
+      ]
+}
